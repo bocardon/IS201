@@ -1,0 +1,36 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: whitesmoke;
+    background-color: rgb(108, 104, 104);
+    
+}
+.bold{
+    font-weight: bold;
+}
+.styles1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    background-color: darkgray;
+}
+.styles2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.footer{
+    text-align: center;
+    padding: 7px;
+    background-color: darkgray;
+    color: whitesmoke;
+}
+.div1{
+    border: 5px solid whitesmoke;
+    padding: 5px;
+}
+.div2{
+    border: 5px solid whitesmoke;
+    padding: 5px;
+}
